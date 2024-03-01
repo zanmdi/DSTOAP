@@ -5,9 +5,12 @@ This repository includes partial code from the research paper titled 'A Deep Spa
 ## Citation
 The methodolgy is described in the following paper:
 ```bibtex
-@inproceedings{axcell,
-    title={AxCell: Automatic Extraction of Results from Machine Learning Papers},
-    author={Marcin Kardas and Piotr Czapla and Pontus Stenetorp and Sebastian Ruder and Sebastian Riedel and Ross Taylor and Robert Stojnic},
-    year={2020},
-    booktitle={2004.14356}
+@article{nourmohammadi2023deep,
+  title={A deep spatiotemporal approach in maritime accident prediction: A case study of the territorial sea of South Korea},
+  author={Nourmohammadi, Zahra and Nourmohammadi, Fatemeh and Kim, Inhi and Park, Shin Hyoung},
+  journal={Ocean Engineering},
+  volume={270},
+  pages={113565},
+  year={2023},
+  publisher={Elsevier}
 }
